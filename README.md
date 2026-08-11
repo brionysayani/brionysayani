@@ -52,7 +52,7 @@ Education        :  B.Tech in Electronics & Instrumentation Engineering
                     Nirma University, Ahmedabad | Class of 2026
 
 Interests        :  Dev stuff & Tri-Athlete (Run, Swim, Bike)
-Currently        :  Building AI Agents, Multi Agent Workflow Automation and much more
+Currently        :  Building AI agents and multi-agent workflow automation
 ```
 
 </div>
@@ -63,7 +63,7 @@ Currently        :  Building AI Agents, Multi Agent Workflow Automation and much
 
 ## `> ls skills/`
 
-**// languages**
+**// core stack**
 
 <img src="https://skillicons.dev/icons?i=python,cpp,typescript,react,postgres&theme=dark" width="230" alt="Python, C++, TypeScript, React and PostgreSQL" />
 

@@ -65,21 +65,22 @@ Currently        :  Building AI Agents, Multi Agent Workflow Automation and much
 
 **// languages**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css&theme=dark" width="230" alt="Python, JavaScript, C++, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,react,postgres&theme=dark" width="230" alt="Python, C++, TypeScript, React and PostgreSQL" />
 
 <br/><br/>
 
-**// tools & foundations**
+**// backend, cloud & tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" width="190" alt="Git, GitHub, VS Code and MySQL" />
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,gcp,git,github&theme=dark" width="230" alt="FastAPI, Supabase, Google Cloud, Git and GitHub" />
 
 <br/><br/>
 
 **// ai / automation**
 
 ```
-[ AI Agents ]  [ LLMs ]  [ Multi-Agent Orchestration ]
-[ Workflow Automation ]  [ API Integration ]
+[ OpenAI ]  [ Gemini ]  [ Prompt Engineering ]  [ LangGraph ]  [ RAG ]
+[ AI Agents ]  [ Multi-Agent Systems ]  [ Vector Retrieval ]
+[ n8n ]  [ MCP ]  [ Webhooks ]  [ REST APIs ]  [ WebRTC ]
 ```
 
 </div>
@@ -91,9 +92,31 @@ Currently        :  Building AI Agents, Multi Agent Workflow Automation and much
 ## `> cat experience.log`
 
 ```
-[★] AI Automation Intern .... Fortiv Solutions
-    Took ownership of shipping practical solutions in a fast-paced startup.
-    Built with AI agents, LLMs, multi-agent orchestration, and workflow automation.
+[★] AI Automation Intern .... Fortiv Solutions | Jan 2026 - Jun 2026
+    Built and deployed AI-powered backend systems with Python, FastAPI, LLMs,
+    databases, and REST APIs to automate business workflows.
+    Developed OpenAI, Gemini, Supabase, and third-party API agent pipelines;
+    engineered retries, logging, API monitoring, real-time tracking, and alerts.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ls projects/`
+
+```
+[01] AI Recruitment Platform
+     Python | FastAPI | LangGraph | OpenAI | Supabase | React | TypeScript
+     Automated candidate evaluation and a real-time Voice AI interviewer using
+     WebRTC, speech-to-text, text-to-speech, and context-aware follow-ups.
+
+[02] Regulatory Contract Compliance Engine
+     Python | RAG | OpenAI | Supabase | GCP
+     Reduced contract review time from 48 hours to under 15 minutes using OCR,
+     multi-vector retrieval, parallel AI agents, and clause-level validation.
 ```
 
 </div>
@@ -105,7 +128,11 @@ Currently        :  Building AI Agents, Multi Agent Workflow Automation and much
 ## `> cat research.log`
 
 ```
-[★] IEEE Research Paper ...... Published research
+[★] Agentic Architecture Enabling Secure and Fault-Tolerant Telesurgery
+    IEEE Germany Section - ICCCMLA 2025 | November 2025
+    Designed an agentic AI architecture to address DDoS attacks, latency,
+    packet loss, and communication failures in satellite-assisted telesurgery.
+    Achieved 94% validation accuracy with a compact 0.5 MB model.
 ```
 
 [![Read on IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Read_the_paper-%2300FF41?style=flat-square&logo=ieee&logoColor=black)](https://ieeexplore.ieee.org/document/11580659)

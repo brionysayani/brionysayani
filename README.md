@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=700&lines=hey+!+I+am+Briony%2C+welcome+to+my+tech+corner+%3E_;AI+automation+builder+%7C+Nirma+University+%7C+Class+of+2026;building+useful+things%2C+one+workflow+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=700&lines=hey+!+I+am+Briony%2C+welcome+to+my+tech+corner+%3E_;AI+automation+builder+%7C+Nirma+University+%7C+Class+of+2026;building+cool+stuff%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -28,11 +28,11 @@
 
 ## `📊 github_stats.exe`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brionysayani&theme=chartreuse-dark&hide_border=true&layout=compact" alt="Top Languages" height="160" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=brionysayani&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=brionysayani&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=brionysayani&theme=chartreuse-dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="160" />
+<img src="https://github-readme-stats.shion.dev/api?username=brionysayani&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="160" />
 
 </div>
 

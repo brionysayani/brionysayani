@@ -106,26 +106,6 @@ Currently        :  Building AI agents and multi-agent workflow automation
 
 <div align="center">
 
-## `> ls projects/`
-
-```
-[01] AI Recruitment Platform
-     Python | FastAPI | LangGraph | OpenAI | Supabase | React | TypeScript
-     Automated candidate evaluation and a real-time Voice AI interviewer using
-     WebRTC, speech-to-text, text-to-speech, and context-aware follow-ups.
-
-[02] Regulatory Contract Compliance Engine
-     Python | RAG | OpenAI | Supabase | GCP
-     Reduced contract review time from 48 hours to under 15 minutes using OCR,
-     multi-vector retrieval, parallel AI agents, and clause-level validation.
-```
-
-</div>
-
----
-
-<div align="center">
-
 ## `> cat research.log`
 
 ```
@@ -149,6 +129,12 @@ Currently        :  Building AI agents and multi-agent workflow automation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/briony-sayani/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/brionysayani)
 [![X](https://img.shields.io/badge/X-%2300FF41.svg?style=flat-square&logo=x&logoColor=black)](https://x.com/brionysayani)
+
+<br/><br/>
+
+```
+📬  brionysayani51@gmail.com
+```
 
 </div>
 

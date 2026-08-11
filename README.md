@@ -65,22 +65,23 @@ Currently        :  Building AI agents and multi-agent workflow automation
 
 **// core stack**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,typescript,react,postgres&theme=dark" width="230" alt="Python, C++, TypeScript, React and PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,html,css,react,postgres&theme=dark" width="370" alt="Python, C++, TypeScript, JavaScript, HTML, CSS, React and PostgreSQL" />
 
 <br/><br/>
 
 **// backend, cloud & tools**
 
-<img src="https://skillicons.dev/icons?i=fastapi,supabase,gcp,git,github&theme=dark" width="230" alt="FastAPI, Supabase, Google Cloud, Git and GitHub" />
+<img src="https://skillicons.dev/icons?i=fastapi,supabase,gcp,mysql,git,github,vscode&theme=dark" width="325" alt="FastAPI, Supabase, Google Cloud, MySQL, Git, GitHub and VS Code" />
 
 <br/><br/>
 
 **// ai / automation**
 
 ```
-[ OpenAI ]  [ Gemini ]  [ Prompt Engineering ]  [ LangGraph ]  [ RAG ]
+[ OpenAI ]  [ Gemini ]  [ LLMs ]  [ Prompt Engineering ]  [ LangGraph ]  [ RAG ]
 [ AI Agents ]  [ Multi-Agent Systems ]  [ Vector Retrieval ]
-[ n8n ]  [ MCP ]  [ Webhooks ]  [ REST APIs ]  [ WebRTC ]
+[ n8n ]  [ MCP ]  [ Workflow Automation ]  [ API Integration ]
+[ Webhooks ]  [ REST APIs ]  [ WebRTC ]
 ```
 
 </div>

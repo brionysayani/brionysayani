@@ -14,6 +14,10 @@
 
 <br/>
 
+<img src="assets/briony-sayani.jpeg" alt="Briony Sayani at Nirma University" width="180" />
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=brionysayani&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
 
 </div>
@@ -98,10 +102,25 @@ Currently  :  Building with AI, LLMs, agents & workflow automation
 
 <div align="center">
 
+## `> cat research.log`
+
+```
+[★] IEEE Research Paper ...... Published research
+```
+
+[![Read on IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Read_the_paper-%2300FF41?style=flat-square&logo=ieee&logoColor=black)](https://ieeexplore.ieee.org/document/11580659)
+
+</div>
+
+---
+
+<div align="center">
+
 ## `> ./connect.sh`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/briony-sayani/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/brionysayani)
+[![X](https://img.shields.io/badge/X-%2300FF41.svg?style=flat-square&logo=x&logoColor=black)](https://x.com/brionysayani)
 
 </div>
 

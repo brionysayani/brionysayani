@@ -1,72 +1,121 @@
 <div align="center">
 
-# Hey, I'm Briony! 👋
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   > SYSTEM BOOT...                                      │
+│   > LOADING PROFILE: brionysayani                       │
+│   > STATUS: ONLINE ██████████ 100%                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-### Recent engineering graduate · AI automation builder · Curious creator
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=700&lines=hey+!+I+am+Briony%2C+welcome+to+my+tech+corner+%3E_;AI+automation+builder+%7C+Nirma+University+%7C+Class+of+2026;building+useful+things%2C+one+workflow+at+a+time" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/briony-sayani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/brionysayani"><img src="https://img.shields.io/badge/GitHub-brionysayani-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=brionysayani&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About me
-
-I'm **Briony Sayani**, a recent **B.Tech. graduate in Electronics & Instrumentation Engineering** from **Nirma University, Ahmedabad** (Class of 2026), now based in **Bengaluru, Karnataka**.
-
-I enjoy building useful things with software and AI—from intelligent workflow automation to agentic systems. Outside the terminal, you'll probably find me playing with Legos; both hobbies are really about assembling small pieces into something cool.
-
-- 🤖 **AI Automation Intern** at **Fortiv Solutions**, a fast-paced bootstrapped startup
-- 🧠 Worked with **AI agents, LLMs, multi-agent orchestration, and workflow automation**
-- 🚀 I like taking ownership, shipping practical solutions, and learning by building
-- 🌱 Currently growing deeper in AI engineering, automation, and developer tools
-
-## 🛠️ Things I work with
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,git,github,vscode,mysql&perline=9" alt="Python, JavaScript, C++, HTML, CSS, Git, GitHub, VS Code, MySQL" />
-</p>
-
-## ✨ Featured work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/brionysayani/Sorting-Algorithms-Visualizer">Sorting Algorithms Visualizer</a></h3>
-      An interactive way to explore how sorting algorithms work—because seeing an algorithm in motion makes it click.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/brionysayani/Algorithmic-Trading-Bot">Algorithmic Trading Bot</a></h3>
-      A Python project exploring automation and data-driven trading workflows.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗓️ <a href="https://github.com/brionysayani/Scheduling-Algorithm">Scheduling Algorithm</a></h3>
-      A C++ implementation focused on algorithmic scheduling logic.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ <a href="https://github.com/brionysayani/DBMS">DBMS</a></h3>
-      Database-focused work built with Python.
-    </td>
-  </tr>
-</table>
-
-## 📈 GitHub at a glance
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brionysayani&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Briony's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brionysayani&layout=compact&theme=transparent&hide_border=true" alt="Briony's most used languages" />
+
+## `📊 github_stats.exe`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brionysayani&theme=chartreuse-dark&hide_border=true&layout=compact" alt="Top Languages" height="160" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=brionysayani&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=brionysayani&theme=chartreuse-dark&hide_border=true&show_icons=true" alt="GitHub Stats" height="160" />
+
 </div>
 
-## 📫 Let's connect
+---
 
-I'm always happy to meet people building interesting things, talk about AI automation, or collaborate on a project.
+<details>
+<summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
 
-<a href="https://www.linkedin.com/in/briony-sayani/"><img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<br/>
+
+<div>
+
+```
+Name       :  Briony Sayani
+From       :  Bengaluru, Karnataka, India
+Education  :  B.Tech in Electronics & Instrumentation Engineering
+              Nirma University, Ahmedabad | Class of 2026
+
+Interests  :  Dev stuff & playing with legos - both involve building cool things!
+Currently  :  Building with AI, LLMs, agents & workflow automation
+```
+
+</div>
+
+---
 
 <div align="center">
-  <br />
-  <i>"Build, learn, iterate—and don't forget to have fun along the way."</i>
+
+## `> ls skills/`
+
+**// languages**
+
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css&theme=dark" width="230" alt="Python, JavaScript, C++, HTML and CSS" />
+
+<br/><br/>
+
+**// tools & foundations**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" width="190" alt="Git, GitHub, VS Code and MySQL" />
+
+<br/><br/>
+
+**// ai / automation**
+
+```
+[ AI Agents ]  [ LLMs ]  [ Multi-Agent Orchestration ]
+[ Workflow Automation ]  [ AI Integration ]
+```
+
 </div>
+
+---
+
+<div align="center">
+
+## `> cat experience.log`
+
+```
+[★] AI Automation Intern .... Fortiv Solutions
+    Took ownership of shipping practical solutions in a fast-paced startup.
+    Built with AI agents, LLMs, multi-agent orchestration, and workflow automation.
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `> ./connect.sh`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/briony-sayani/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/brionysayani)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> session terminated
+> thanks for visiting _
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
+
+</div>
+
+</details>

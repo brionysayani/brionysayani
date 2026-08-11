@@ -47,12 +47,12 @@
 
 ```
 Name       :  Briony Sayani
-From       :  Bengaluru, Karnataka, India
+Current Location       :  Bengaluru, Karnataka, India
 Education  :  B.Tech in Electronics & Instrumentation Engineering
               Nirma University, Ahmedabad | Class of 2026
 
 Interests  :  Dev stuff & playing with legos - both involve building cool things!
-Currently  :  Building with AI, LLMs, agents & workflow automation
+Currently  :  Building AI Agents, Multi Agent Workflow automation and much more
 ```
 
 </div>
@@ -79,7 +79,7 @@ Currently  :  Building with AI, LLMs, agents & workflow automation
 
 ```
 [ AI Agents ]  [ LLMs ]  [ Multi-Agent Orchestration ]
-[ Workflow Automation ]  [ AI Integration ]
+[ Workflow Automation ]  [ API Integration ]
 ```
 
 </div>
